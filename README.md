@@ -10,7 +10,7 @@ The primary objective was to configure endpoint monitoring, collect and analyse 
 
 The following diagram illustrates the Home SOC Lab architecture, including the VirtualBox environment, internal network, IP addressing, and communication between the Wazuh SIEM server, Windows 10 endpoint, and Kali Linux testing machine.
 
-![Home SOC Lab Network Architecture](evidence/01-Lab-Architecture/Home SOC Lab Network Architecture.png)
+![Home SOC Lab Network Architecture](evidence/01-Lab-Architecture/Home_SOC_Lab_Network_Architecture.png)
 
 ## 2. Lab Environment
 
