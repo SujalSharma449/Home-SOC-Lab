@@ -6,6 +6,12 @@ This project demonstrates the implementation of a hands-on Security Operations C
 
 The primary objective was to configure endpoint monitoring, collect and analyse security events, investigate SIEM alerts, and perform controlled security testing to understand fundamental SOC operations.
 
+## 2. Lab Architecture
+
+The following diagram illustrates the Home SOC Lab architecture, including the VirtualBox environment, internal network, IP addressing, and communication between the Wazuh SIEM server, Windows 10 endpoint, and Kali Linux testing machine.
+
+![Home SOC Lab Network Architecture](evidence/01-Lab-Architecture/Home SOC Lab Network Architecture.png)
+
 ## 2. Lab Environment
 
 | Component | Configuration |
